@@ -7,7 +7,7 @@ I build B2B web applications end to end — Go and Node.js on the backend, Angul
 - 🔭 Currently: full stack development at **CMTIS**
 - 🌱 Learning: Spring Boot, software architecture
 - 👨‍🏫 Teaching Python to students aged 12–15
-- 📫 [ermukhambetraimbek@gmail.com](mailto:ermukhambetraimbek@gmail.com) · [LinkedIn](https://www.linkedin.com/in/raiymbek-yermukhambet-891653305/)
+- 📫 [ermukhambetraimbek@gmail.com](mailto:ermukhambetraimbek@gmail.com) · [LinkedIn](https://www.linkedin.com/in/raiymbek-yermukhambet/)
 
 ---
 
