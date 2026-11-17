@@ -61,7 +61,7 @@ Every returned excerpt points to an immutable document revision and exact line r
 
 Families take short lessons with server-graded quizzes, share care tasks and a weekly schedule; a task shows whether the assignee has passed the lesson it requires.
 
-### GlobalToProject — B2B equipment catalogue & quotation platform
+### GlobalToProject — B2B equipment catalogue & quotation platform · [live](https://alunitools.kz)
 `Go` `Angular` `PostgreSQL` `Docker` · 2026
 
 Russian/Kazakh platform for equipment catalogue and SKU management, customer inquiries, staff workflows and quotation preparation.
